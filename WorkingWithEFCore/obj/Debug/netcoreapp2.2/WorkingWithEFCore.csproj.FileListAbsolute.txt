@@ -1,0 +1,11 @@
+D:\Projects\Mark_Price_11\WorkingWithEFCore\WorkingWithEFCore\bin\Debug\netcoreapp2.2\WorkingWithEFCore.deps.json
+D:\Projects\Mark_Price_11\WorkingWithEFCore\WorkingWithEFCore\bin\Debug\netcoreapp2.2\WorkingWithEFCore.runtimeconfig.json
+D:\Projects\Mark_Price_11\WorkingWithEFCore\WorkingWithEFCore\bin\Debug\netcoreapp2.2\WorkingWithEFCore.runtimeconfig.dev.json
+D:\Projects\Mark_Price_11\WorkingWithEFCore\WorkingWithEFCore\bin\Debug\netcoreapp2.2\WorkingWithEFCore.dll
+D:\Projects\Mark_Price_11\WorkingWithEFCore\WorkingWithEFCore\obj\Debug\netcoreapp2.2\WorkingWithEFCore.csprojAssemblyReference.cache
+D:\Projects\Mark_Price_11\WorkingWithEFCore\WorkingWithEFCore\obj\Debug\netcoreapp2.2\WorkingWithEFCore.csproj.CoreCompileInputs.cache
+D:\Projects\Mark_Price_11\WorkingWithEFCore\WorkingWithEFCore\obj\Debug\netcoreapp2.2\WorkingWithEFCore.AssemblyInfoInputs.cache
+D:\Projects\Mark_Price_11\WorkingWithEFCore\WorkingWithEFCore\obj\Debug\netcoreapp2.2\WorkingWithEFCore.AssemblyInfo.cs
+D:\Projects\Mark_Price_11\WorkingWithEFCore\WorkingWithEFCore\bin\Debug\netcoreapp2.2\WorkingWithEFCore.pdb
+D:\Projects\Mark_Price_11\WorkingWithEFCore\WorkingWithEFCore\obj\Debug\netcoreapp2.2\WorkingWithEFCore.dll
+D:\Projects\Mark_Price_11\WorkingWithEFCore\WorkingWithEFCore\obj\Debug\netcoreapp2.2\WorkingWithEFCore.pdb
